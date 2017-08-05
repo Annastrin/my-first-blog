@@ -25,7 +25,7 @@ SECRET_KEY = 'x5@b+qa3o@)+2!x9^$+5enxrww6^293(d#cwz%@_4d10es#rdl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['annastrin.pythonanywhere.com']
 
 
 # Application definition
