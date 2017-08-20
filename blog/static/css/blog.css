@@ -1,5 +1,5 @@
-h1 a {
-	color: #E31945;
+h1 {
+	color: #ff698c;
 	font-family: 'Lobster';
 }
 body {
@@ -42,5 +42,5 @@ h1, h2, h3, h4 {
 	margin-bottom: 40px;
 }
 .post h1 a, .post h1 a:visited {
-	color: #ff698c;
+	color: #E31945;
 }
